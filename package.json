@@ -1,0 +1,11 @@
+{
+  "name": "mjstyles",
+  "version": "1.0.0",
+  "description": "Styles I frequently use",
+  "main": "mjstyles.js, mjstyles.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Muhammad",
+  "license": "UNLICENSED"
+}
